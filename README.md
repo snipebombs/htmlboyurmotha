@@ -1,6 +1,5 @@
 # htmlboy
-<h1> how to play chel </h1>
-<body> sub to my twitch i need money
+
  <body class="layout-03 wtf-homepage wnd-cms desktop" data-wnd_multilang_class="1" id="wnd_workarea" data-wnd_lang="en-us"><script>var dataLayer = dataLayer || [];</script><!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NKF4VL" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({"gtm.start":new Date().getTime(),event:"gtm.js"});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!="dataLayer"?"&l="+l:"";j.async=true;j.src="//www.googletagmanager.com/gtm.js?id="+i+dl;f.parentNode.insertBefore(j,f);})(window,document,"script","dataLayer","GTM-NKF4VL");</script>
